@@ -70,10 +70,10 @@ Consistência de Dados: Todos os eventos foram adicionados e consumidos sem erro
 ## 🔧 Conclusão:
 
 Os testes demonstraram a importância da sincronização em programas multithreaded.
-O Cenário 1 evidenciou problemas de concorrência, enquanto o Cenário 2 solucionou essas questões por meio de wait() e notify(). 
+O Cenário 1 evidenciou problemas de concorrência, enquanto o Cenário 2 solucionou essas questões por meio de wait() e notify().
 No Cenário 3, verificamos que a solução sincronizada é escalável e funciona corretamente com vários produtores e consumidores.
-Recomendação: Para sistemas que envolvem manipulação concorrente de recursos compartilhados, é essencial utilizar técnicas adequadas de sincronização
-para garantir a consistência e evitar condições de corrida.
+Recomendação: Para sistemas que envolvem manipulação concorrente de recursos compartilhados, é essencial utilizar técnicas 
+adequadas de sincronização para garantir a consistência e evitar condições de corrida.
 
 ## 💻 Desenvolvedor
  
