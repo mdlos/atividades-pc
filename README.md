@@ -9,7 +9,7 @@
 ## Objetivo do Projeto
 
 Professor: Prof. Dr. Hélio Lopes dos Santos
-Discente: Márcio de Arruda Fonseca
+|  Discente: Márcio de Arruda Fonseca
 
 Este relatório documenta as atividades práticas desenvolvidas na disciplina de Programação Concorrente, abordando diferentes aspectos da implementação e gestão de threads em Java.
 
