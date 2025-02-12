@@ -21,8 +21,9 @@ RepositórioImplementa um mecanismo onde uma thread registra a data e hora a cad
 
 <table>
   <tr>
-    <td align="center"><img style="" src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt=""/><br /><sub><b> Prática 1 </b></sub></a><br />🗒️ </a></td>
-    [![Codigo]](https://github.com/mdlos/atividades-pc/tree/main/aula4_ex1)
+    <td align="center"><img style="" src="" width="100px;" alt=""/><br /><sub><b> Prática 1 </b></sub></a><br />🗒️</a></td>
+    Link da Atividade:
+   [![Demostração](https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true)](https://youtu.be/OZlVZHFHEOo](https://github.com/mdlos/atividades-pc/tree/main/aula4_ex1)
   </tr>
 </table>
 
