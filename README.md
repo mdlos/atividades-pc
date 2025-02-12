@@ -6,7 +6,7 @@
   <img width=40% src="http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVIDA&color=02A6F4&style=for-the-badge"/>
 </div>
 
-## Objetivo do Projeto
+## Apresentação
 
 Professor: Prof. Dr. Hélio Lopes dos Santos
 |  Discente: Márcio de Arruda Fonseca
