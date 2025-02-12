@@ -29,6 +29,8 @@ Repositório - Implementa um mecanismo onde uma thread registra a data e hora a 
   </tr>
 </table>
 
+=======
+
 2. Carregamento de Conexões e Fontes de Dados - Aguardando a Finalização de uma Thread
 
 Repositório - Demonstra a importância de aguardar a conclusão de threads antes de prosseguir com a execução do programa.
@@ -42,6 +44,8 @@ Repositório - Demonstra a importância de aguardar a conclusão de threads ante
     </td>
   </tr>
 </table>
+
+=======
 
 3. Gerenciamento de Eventos com Fila e Threads - Criando e Executando uma Thread Daemon
 
@@ -57,6 +61,8 @@ Repositório - Aplica o conceito de threads daemon, que executam tarefas em segu
   </tr>
 </table>
 
+=======
+
 4. Tratamento de Exceções em Threads - Processando Exceções Não Controladas em uma Thread
 
 Repositório - Explora a captura e tratamento de exceções não tratadas dentro de uma thread, garantindo maior controle sobre falhas.
@@ -70,6 +76,8 @@ Repositório - Explora a captura e tratamento de exceções não tratadas dentro
     </td>
   </tr>
 </table>
+
+=======
 
 5. ThreadLocal vs InheritableThreadLocal - Usando Variáveis Locais de Thread
 
@@ -85,6 +93,8 @@ Repositório - Compara o uso de ThreadLocal e InheritableThreadLocal para o gere
   </tr>
 </table>
 
+=======
+
 6. Simulação de Tarefas de Busca com Threads - Agrupando Threads em um Grupo
 
 Repositório - Demonstra como agrupar threads para facilitar o gerenciamento e monitoramento de execução.
@@ -98,6 +108,8 @@ Repositório - Demonstra como agrupar threads para facilitar o gerenciamento e m
     </td>
   </tr>
 </table>
+
+=======
 
 7. Manipulação de Exceções em Threads - Tratamento de Exceções Não Controladas em um Grupo de Threads
 
@@ -113,6 +125,8 @@ Repositório - Aplica técnicas de tratamento de exceções dentro de grupos de 
   </tr>
 </table>
 
+=======
+
 8. Uso de ThreadFactory vs. Criação Manual de Threads - Criando Threads através de uma Fábrica
 
 Repositório - Demonstra a vantagem de utilizar uma fábrica de threads (ThreadFactory) para facilitar a gestão de execução concorrente.
@@ -126,6 +140,8 @@ Repositório - Demonstra a vantagem de utilizar uma fábrica de threads (ThreadF
     </td>
   </tr>
 </table>
+
+=======
 
 9. Sincronização de Threads em Java - Sincronizando um Bloco de Código
 
@@ -141,6 +157,8 @@ Repositório - Explora como sincronizar blocos de código para evitar condiçõe
   </tr>
 </table>
 
+=======
+
 10. Sincronização em Sistemas Multithreading - Organização de Atributos Independentes em Classes Sincronizadas
 
 Repositório - Demonstra boas práticas para sincronização de atributos independentes dentro de classes concorrentes.
@@ -154,6 +172,8 @@ Repositório - Demonstra boas práticas para sincronização de atributos indepe
     </td>
   </tr>
 </table>
+
+=======
 
 11. Gerenciamento de Eventos em Ambiente Multithread - Uso de Condições em Código Sincronizado
 
@@ -169,6 +189,8 @@ Repositório - Apresenta o uso de condições (wait, notify) dentro de código s
   </tr>
 </table>
 
+=======
+
 12. Comportamento de Concorrência com e sem ReentrantLock - Sincronizando um Bloco de Código com um Lock
 
 Repositório - Explora o uso de ReentrantLock para controle de concorrência, comparando com o uso de synchronized em Java.
@@ -182,6 +204,8 @@ Repositório - Explora o uso de ReentrantLock para controle de concorrência, co
     </td>
   </tr>
 </table>
+
+=======
 
 
 ## 🔧 Conclusão:
