@@ -21,12 +21,14 @@ RepositórioImplementa um mecanismo onde uma thread registra a data e hora a cad
 
 <table>
   <tr>
-    <td align="center"><img style="" src="" width="100px;" alt=""/><br /><sub><b> Prática 1 </b></sub></a><br />🗒️</a></td>
-    Link da Atividade:
-   [(https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true)](https://github.com/mdlos/atividades-pc/tree/main/aula4_ex1)
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 1"/><br />
+      <sub><b>Prática 1</b></sub><br />
+      🗒️<br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula4_ex1">Link da Atividade</a>
+    </td>
   </tr>
 </table>
-
 
 2. Carregamento de Conexões e Fontes de Dados - Aguardando a Finalização de uma Thread
 
