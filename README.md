@@ -17,7 +17,7 @@ Este relatório documenta as atividades práticas desenvolvidas na disciplina de
 
 1. RelógioArquivo (FileClock) - Dormindo e Retomando uma Thread
 
-RepositórioImplementa um mecanismo onde uma thread registra a data e hora a cada segundo e permite a suspensão e retomada da execução.
+Repositório - Implementa um mecanismo onde uma thread registra a data e hora a cada segundo e permite a suspensão e retomada da execução.
 
 <table>
   <tr>
@@ -31,7 +31,7 @@ RepositórioImplementa um mecanismo onde uma thread registra a data e hora a cad
 
 2. Carregamento de Conexões e Fontes de Dados - Aguardando a Finalização de uma Thread
 
-RepositórioDemonstra a importância de aguardar a conclusão de threads antes de prosseguir com a execução do programa.
+Repositório - Demonstra a importância de aguardar a conclusão de threads antes de prosseguir com a execução do programa.
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ RepositórioDemonstra a importância de aguardar a conclusão de threads antes d
 
 3. Gerenciamento de Eventos com Fila e Threads - Criando e Executando uma Thread Daemon
 
-RepositórioAplica o conceito de threads daemon, que executam tarefas em segundo plano sem impedir a finalização do programa principal.
+Repositório - Aplica o conceito de threads daemon, que executam tarefas em segundo plano sem impedir a finalização do programa principal.
 
 <table>
   <tr>
@@ -59,7 +59,7 @@ RepositórioAplica o conceito de threads daemon, que executam tarefas em segundo
 
 4. Tratamento de Exceções em Threads - Processando Exceções Não Controladas em uma Thread
 
-RepositórioExplora a captura e tratamento de exceções não tratadas dentro de uma thread, garantindo maior controle sobre falhas.
+Repositório - Explora a captura e tratamento de exceções não tratadas dentro de uma thread, garantindo maior controle sobre falhas.
 
 <table>
   <tr>
@@ -73,7 +73,7 @@ RepositórioExplora a captura e tratamento de exceções não tratadas dentro de
 
 5. ThreadLocal vs InheritableThreadLocal - Usando Variáveis Locais de Thread
 
-RepositórioCompara o uso de ThreadLocal e InheritableThreadLocal para o gerenciamento de variáveis locais em ambientes multithread.
+Repositório - Compara o uso de ThreadLocal e InheritableThreadLocal para o gerenciamento de variáveis locais em ambientes multithread.
 
 <table>
   <tr>
@@ -87,7 +87,7 @@ RepositórioCompara o uso de ThreadLocal e InheritableThreadLocal para o gerenci
 
 6. Simulação de Tarefas de Busca com Threads - Agrupando Threads em um Grupo
 
-RepositórioDemonstra como agrupar threads para facilitar o gerenciamento e monitoramento de execução.
+Repositório - Demonstra como agrupar threads para facilitar o gerenciamento e monitoramento de execução.
 
 <table>
   <tr>
@@ -101,7 +101,7 @@ RepositórioDemonstra como agrupar threads para facilitar o gerenciamento e moni
 
 7. Manipulação de Exceções em Threads - Tratamento de Exceções Não Controladas em um Grupo de Threads
 
-RepositórioAplica técnicas de tratamento de exceções dentro de grupos de threads para melhorar a robustez do sistema.
+Repositório - Aplica técnicas de tratamento de exceções dentro de grupos de threads para melhorar a robustez do sistema.
 
 <table>
   <tr>
@@ -115,7 +115,7 @@ RepositórioAplica técnicas de tratamento de exceções dentro de grupos de thr
 
 8. Uso de ThreadFactory vs. Criação Manual de Threads - Criando Threads através de uma Fábrica
 
-RepositórioDemonstra a vantagem de utilizar uma fábrica de threads (ThreadFactory) para facilitar a gestão de execução concorrente.
+Repositório - Demonstra a vantagem de utilizar uma fábrica de threads (ThreadFactory) para facilitar a gestão de execução concorrente.
 
 <table>
   <tr>
@@ -129,7 +129,7 @@ RepositórioDemonstra a vantagem de utilizar uma fábrica de threads (ThreadFact
 
 9. Sincronização de Threads em Java - Sincronizando um Bloco de Código
 
-RepositórioExplora como sincronizar blocos de código para evitar condições de corrida e acesso inconsistente a recursos compartilhados.
+Repositório - Explora como sincronizar blocos de código para evitar condições de corrida e acesso inconsistente a recursos compartilhados.
 
 <table>
   <tr>
@@ -143,7 +143,7 @@ RepositórioExplora como sincronizar blocos de código para evitar condições d
 
 10. Sincronização em Sistemas Multithreading - Organização de Atributos Independentes em Classes Sincronizadas
 
-RepositórioDemonstra boas práticas para sincronização de atributos independentes dentro de classes concorrentes.
+Repositório - Demonstra boas práticas para sincronização de atributos independentes dentro de classes concorrentes.
 
 <table>
   <tr>
@@ -157,7 +157,7 @@ RepositórioDemonstra boas práticas para sincronização de atributos independe
 
 11. Gerenciamento de Eventos em Ambiente Multithread - Uso de Condições em Código Sincronizado
 
-RepositórioApresenta o uso de condições (wait, notify) dentro de código sincronizado para um melhor controle da execução concorrente.
+Repositório - Apresenta o uso de condições (wait, notify) dentro de código sincronizado para um melhor controle da execução concorrente.
 
 <table>
   <tr>
@@ -171,7 +171,7 @@ RepositórioApresenta o uso de condições (wait, notify) dentro de código sinc
 
 12. Comportamento de Concorrência com e sem ReentrantLock - Sincronizando um Bloco de Código com um Lock
 
-RepositórioExplora o uso de ReentrantLock para controle de concorrência, comparando com o uso de synchronized em Java.
+Repositório - Explora o uso de ReentrantLock para controle de concorrência, comparando com o uso de synchronized em Java.
 
 <table>
   <tr>
