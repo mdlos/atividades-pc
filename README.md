@@ -23,8 +23,7 @@ RepositórioImplementa um mecanismo onde uma thread registra a data e hora a cad
   <tr>
     <td align="center">
       <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 1"/><br />
-      <sub><b>Prática 1</b></sub><br />
-      🗒️<br />
+      <sub><b>Prática 1</b></sub><br /> <br />
       <a href="https://github.com/mdlos/atividades-pc/tree/main/aula4_ex1">Link da Atividade</a>
     </td>
   </tr>
@@ -36,7 +35,11 @@ RepositórioDemonstra a importância de aguardar a conclusão de threads antes d
 
 <table>
   <tr>
-    <td align="center"><img style="" src="https://github.com/mdlos/atividades-pc/tree/main/aula4_ex2" width="100px;" alt=""/><br /><sub><b> Prática 2 </b></sub></a><br />🗒️ </a></td>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 2"/><br />
+      <sub><b>Prática 2</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula4_ex2">Link da Atividade</a>
+    </td>
   </tr>
 </table>
 
@@ -46,7 +49,11 @@ RepositórioAplica o conceito de threads daemon, que executam tarefas em segundo
 
 <table>
   <tr>
-    <td align="center"><img style="" src="https://github.com/mdlos/atividades-pc/tree/main/aula4_ex3" width="100px;" alt=""/><br /><sub><b> Prática 3 </b></sub></a><br />🗒️ </a></td>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 3"/><br />
+      <sub><b>Prática 3</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula4_ex3">Link da Atividade</a>
+    </td>
   </tr>
 </table>
 
@@ -56,7 +63,11 @@ RepositórioExplora a captura e tratamento de exceções não tratadas dentro de
 
 <table>
   <tr>
-    <td align="center"><img style="" src="https://github.com/mdlos/atividades-pc/tree/main/aula4_ex4" width="100px;" alt=""/><br /><sub><b> Prática 4 </b></sub></a><br />🗒️ </a></td>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 4"/><br />
+      <sub><b>Prática 4</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula4_ex4">Link da Atividade</a>
+    </td>
   </tr>
 </table>
 
@@ -66,7 +77,11 @@ RepositórioCompara o uso de ThreadLocal e InheritableThreadLocal para o gerenci
 
 <table>
   <tr>
-    <td align="center"><img style="" src="https://github.com/mdlos/atividades-pc/tree/main/aula4_ex5" width="100px;" alt=""/><br /><sub><b> Prática 5 </b></sub></a><br />🗒️ </a></td>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 5"/><br />
+      <sub><b>Prática 5</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula4_ex5">Link da Atividade</a>
+    </td>
   </tr>
 </table>
 
@@ -76,7 +91,11 @@ RepositórioDemonstra como agrupar threads para facilitar o gerenciamento e moni
 
 <table>
   <tr>
-    <td align="center"><img style="" src="https://github.com/mdlos/atividades-pc/tree/main/aula4_ex7" width="100px;" alt=""/><br /><sub><b> Prática 6 </b></sub></a><br />🗒️ </a></td>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 6"/><br />
+      <sub><b>Prática 6</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula4_ex7">Link da Atividade</a>
+    </td>
   </tr>
 </table>
 
@@ -86,7 +105,11 @@ RepositórioAplica técnicas de tratamento de exceções dentro de grupos de thr
 
 <table>
   <tr>
-    <td align="center"><img style="" src="https://github.com/mdlos/atividades-pc/tree/main/aula5_ex1" width="100px;" alt=""/><br /><sub><b> Prática 7 </b></sub></a><br />🗒️ </a></td>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 7"/><br />
+      <sub><b>Prática 7</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula5_ex1">Link da Atividade</a>
+    </td>
   </tr>
 </table>
 
@@ -96,7 +119,11 @@ RepositórioDemonstra a vantagem de utilizar uma fábrica de threads (ThreadFact
 
 <table>
   <tr>
-    <td align="center"><img style="" src="https://github.com/mdlos/atividades-pc/tree/main/aula5_ex2" width="100px;" alt=""/><br /><sub><b> Prática 8 </b></sub></a><br />🗒️ </a></td>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 8"/><br />
+      <sub><b>Prática 8</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula5_ex2">Link da Atividade</a>
+    </td>
   </tr>
 </table>
 
@@ -106,7 +133,11 @@ RepositórioExplora como sincronizar blocos de código para evitar condições d
 
 <table>
   <tr>
-    <td align="center"><img style="" src="https://github.com/mdlos/atividades-pc/tree/main/aula5_ex3" width="100px;" alt=""/><br /><sub><b> Prática 9 </b></sub></a><br />🗒️ </a></td>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 9"/><br />
+      <sub><b>Prática 9</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula5_ex3">Link da Atividade</a>
+    </td>
   </tr>
 </table>
 
@@ -116,7 +147,11 @@ RepositórioDemonstra boas práticas para sincronização de atributos independe
 
 <table>
   <tr>
-    <td align="center"><img style="" src="https://github.com/mdlos/atividades-pc/tree/main/aula5_ex4" width="100px;" alt=""/><br /><sub><b> Prática 10 </b></sub></a><br />🗒️ </a></td>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 10"/><br />
+      <sub><b>Prática 10</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula5_ex4">Link da Atividade</a>
+    </td>
   </tr>
 </table>
 
@@ -126,7 +161,11 @@ RepositórioApresenta o uso de condições (wait, notify) dentro de código sinc
 
 <table>
   <tr>
-    <td align="center"><img style="" src="https://github.com/mdlos/atividades-pc/tree/main/aula5_ex5" width="100px;" alt=""/><br /><sub><b> Prática 11 </b></sub></a><br />🗒️ </a></td>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 11"/><br />
+      <sub><b>Prática 11</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula5_ex5">Link da Atividade</a>
+    </td>
   </tr>
 </table>
 
@@ -136,7 +175,11 @@ RepositórioExplora o uso de ReentrantLock para controle de concorrência, compa
 
 <table>
   <tr>
-    <td align="center"><img style="" src="https://github.com/mdlos/atividades-pc/tree/main/aula5_ex6" width="100px;" alt=""/><br /><sub><b> Prática 12 </b></sub></a><br />🗒️ </a></td>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 12"/><br />
+      <sub><b>Prática 12</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula5_ex6">Link da Atividade</a>
+    </td>
   </tr>
 </table>
 
