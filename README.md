@@ -207,6 +207,191 @@ Repositório - Explora o uso de ReentrantLock para controle de concorrência, co
 
 =======
 
+13. Sistema de Controle de Preços com ReadWriteLock - Sincronização de Acesso a Dados com Read/Write Locks
+
+Repositório - O sistema utiliza ReadWriteLock para garantir a consistência dos dados e evitar condições de corrida.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 13"/><br />
+      <sub><b>Prática 13</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula6_ex1">Link da Atividade</a>
+    </td>
+  </tr>
+</table>
+
+=======
+
+14. Gerenciamento de Concorrência com ReentrantLock - Sincronização de Acesso a Dados com Read/Write Locks
+
+Repositório - Demonstra o uso de ReentrantLock em Java para gerenciar o acesso concorrente a uma fila de impressão compartilhada.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 14"/><br />
+      <sub><b>Prática 14</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula6_ex2">Link da Atividade</a>
+    </td>
+  </tr>
+</table>
+
+=======
+
+15. Sistema Produtor-Consumidor com Buffer Compartilhado - Uso de Múltiplas Condições com um Lock
+
+Repositório - Simular a leitura de um arquivo de texto por um produtor, que insere as linhas em um buffer compartilhado, enquanto consumidores processam essas linhas.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 15"/><br />
+      <sub><b>Prática 15</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula6_ex3">Link da Atividade</a>
+    </td>
+  </tr>
+</table>
+
+=======
+
+16. Sistema de Fila de Impressão - Controle de Acesso Concorrente a um Recurso
+
+Repositório - Implementa um sistema de fila de impressão ( PrintQueue) que utiliza um Semaphore para controlar o acesso concorrente de múltiplas threads ao recurso de impressão.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 16"/><br />
+      <sub><b>Prática 16</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula6_ex4">Link da Atividade</a>
+    </td>
+  </tr>
+</table>
+
+=======
+
+17. Sistema de Fila de Impressão com Controle de Acesso Concorrente - Controle de Acesso Concorrente a Múltiplas Cópias de um Recurso
+
+Repositório - Sistema simula uma fila de impressão onde múltiplas threads competem pelo acesso a um conjunto de impressoras
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 17"/><br />
+      <sub><b>Prática 17</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula6_ex5">Link da Atividade</a>
+    </td>
+  </tr>
+</table>
+
+=======
+
+18. Videoconferência com Sincronização - Controle de Acesso Concorrente a Múltiplas Cópias de um Recurso
+
+Repositório - O código simula uma videoconferência em que vários participantes chegam em momentos diferentes, e a conferência só começa quando todos os participantes estão prontos.
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 18"/><br />
+      <sub><b>Prática 18</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula6_ex6">Link da Atividade</a>
+    </td>
+  </tr>
+</table>
+
+=======
+
+19. Processamento Paralelo com CyclicBarrier - Sincronizando Tarefas em um Ponto Comum
+
+Repositório - O código implementa um sistema de busca paralela em uma matriz de inteiros utilizando a classe CyclicBarrier do Java.
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 19"/><br />
+      <sub><b>Prática 19</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula7_ex1">Link da Atividade</a>
+    </td>
+  </tr>
+</table>
+
+=======
+
+20. Sincronização de Threads com Phaser - Execução de Tarefas Concorrentes em Fases
+
+Repositório - Demonstra o uso da classe Phaser para coordenar a execução de threads em fases.
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 20"/><br />
+      <sub><b>Prática 20</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula7_ex2">Link da Atividade</a>
+    </td>
+  </tr>
+</table>
+
+=======
+
+21. Coordenação de Threads com Phaser - Controle da Mudança de Fase em Tarefas Concorrentes
+
+Repositório - Demonstra o uso da classe Phaser do Java para coordenar a execução de threads em fases distintas.
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 21"/><br />
+      <sub><b>Prática 21</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula7_ex3">Link da Atividade</a>
+    </td>
+  </tr>
+</table>
+
+=======
+
+22. Exchanger em Java - Mudança de Dados entre Tarefas Concorrentes
+
+Repositório - Demonstra o uso da classe Exchanger para coordenar a troca de dados entre threads em Java. 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 22"/><br />
+      <sub><b>Prática 22</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula7_ex4">Link da Atividade</a>
+    </td>
+  </tr>
+</table>
+
+=======
+
+23. Gerenciamento de Tarefas com ThreadPoolExecutor - Criando um Executor de Threads
+
+Repositório - Demonstra o uso de um ThreadPoolExecutor em Java para gerenciar a execução concorrente de tarefas.
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 23"/><br />
+      <sub><b>Prática 23</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula7_ex5">Link da Atividade</a>
+    </td>
+  </tr>
+</table>
+
+=======
+
+24. Gerenciamento de Tarefas com ThreadPoolExecutor - Criando um Executor de Threads de Tamanho Fixo
+
+Repositório - Demonstra o uso de um ThreadPoolExecutor com um pool de tamanho fixo para gerenciar a execução concorrente de tarefas.
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 24"/><br />
+      <sub><b>Prática 24</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula7_ex6">Link da Atividade</a>
+    </td>
+  </tr>
+</table>
+
+=======
+
 
 ## 🔧 Conclusão:
 
