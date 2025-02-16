@@ -398,6 +398,8 @@ Repositório - Demonstra o uso de um ThreadPoolExecutor com um pool de tamanho f
 As atividades desenvolvidas permitiram uma compreensão aprofundada sobre os conceitos de programação concorrente, abordando desde a criação e controle de threads 
 até mecanismos avançados de sincronização e tratamento de exceções. 
 Cada exercício prático proporcionou a experiência necessária para lidar com os desafios comuns em sistemas multithread, preparando para aplicações mais robustas e eficientes.
+Todos atividades são incrementações e mudanças nos códigos para testar as atividades do livro:
+GONZÁLEZ, Javier Fernández. Java 7 concurrency cookbook. Birmingham: Packt Publishing, 2012.
 
 
 ## 💻 Desenvolvedor
