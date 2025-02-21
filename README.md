@@ -393,6 +393,94 @@ Repositório - Demonstra o uso de um ThreadPoolExecutor com um pool de tamanho f
 =======
 
 
+25. Cálculo de Fatorial com ExecutorService - Executando Tarefas em um Executor que Retorna um Resultado
+
+Repositório - Uso da API ExecutorService para executar cálculos de fatorial de maneira concorrente. As tarefas são submetidas a um ThreadPoolExecutor com um número configurável de threads.
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 25"/><br />
+      <sub><b>Prática 25</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula8_ex1">Link da Atividade</a>
+    </td>
+  </tr>
+</table>
+
+=======
+
+26. Validador de Usuário com ExecutorService - Executando Múltiplas Tarefas e Processando o Primeiro Resultado
+
+Repositório - Sistema de validação de usuário utilizando Callable, ExecutorService e invokeAny(). O objetivo é simular a verificação de credenciais em múltiplos validadores e retornar a primeira resposta bem-sucedida.
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 26"/><br />
+      <sub><b>Prática 26</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula8_ex2">Link da Atividade</a>
+    </td>
+  </tr>
+</table>
+
+=======
+
+27. Execução das Tarefas Concorrentes - Executando Múltiplas Tarefas e Processando Todos os Resultados
+
+Repositório - O código simula execuções paralelas de tarefas, cada uma com um tempo de execução aleatório e um valor de resultado gerado dinamicamente.
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 27"/><br />
+      <sub><b>Prática 27</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula8_ex3">Link da Atividade</a>
+    </td>
+  </tr>
+</table>
+
+=======
+
+28. Agendamento de Tarefas com ScheduledExecutorService - Executando uma Tarefa em um Executor Após um Atraso
+
+Repositório - O programa foi desenvolvido para testar o comportamento do agendador com vários cenários e garantir sua correta funcionalidade.
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 28"/><br />
+      <sub><b>Prática 28</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula8_ex4">Link da Atividade</a>
+    </td>
+  </tr>
+</table>
+
+=======
+
+29. Teste de Agendador de Tarefas com ScheduledExecutorService - Executando uma Tarefa em um Executor Periodicamente
+
+Repositório - O código tem o objetivo testar e analisar o comportamento do ScheduledExecutorService em diferentes cenários de agendamento de tarefas em Java
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 29"/><br />
+      <sub><b>Prática 29</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula8_ex5">Link da Atividade</a>
+    </td>
+  </tr>
+</table>
+
+=======
+
+30. Controle de Execução de Tarefas com ThreadPoolExecutor - Cancelando uma Tarefa em um Executor
+
+Repositório - O código tem o objetivo de demonstrar o uso de ThreadPoolExecutor para gerenciar a execução de tarefas concorrentes em Java. 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mdlos/atividades-pc/blob/main/jav.png?raw=true" width="100px;" alt="Prática 30"/><br />
+      <sub><b>Prática 29</b></sub><br /> <br />
+      <a href="https://github.com/mdlos/atividades-pc/tree/main/aula8_ex6">Link da Atividade</a>
+    </td>
+  </tr>
+</table>
+
 ## 🔧 Conclusão:
 
 As atividades desenvolvidas permitiram uma compreensão aprofundada sobre os conceitos de programação concorrente, abordando desde a criação e controle de threads 
